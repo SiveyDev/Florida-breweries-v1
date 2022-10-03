@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-image: url("https://www.theflagfactory.com/wp-content/uploads/2017/10/Florida-flag.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: initial;
+}
+
+div {
+    background-color: #696b6d;
+    opacity: 0.9;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    line-height: 2;
+}
